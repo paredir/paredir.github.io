@@ -1,0 +1,5 @@
+{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "paredir.github.io",
+  "Id": "3c377b8e-3cf1-47ad-bbcd-1f04922817a7"
+}
